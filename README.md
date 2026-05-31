@@ -1,5 +1,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=0052FF&center=true&vCenter=true&width=900&lines=Base+Ecosystem+Builder;Smart+Contract+Developer;Building+Onchain+Products;Learning+By+Building" />
+  <p align="center">
+
+<img src="https://img.shields.io/badge/Base-Ecosystem%20Builder-0052FF?style=for-the-badge" />
+
+</p>
 </p>
 # 👋 Hi, I'm Huzaifa
 
@@ -79,9 +84,13 @@ Community Governance Infrastructure
 ![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifa765&theme=tokyonight)
 ## 🌐 Connect
 
-X: https://x.com/Huzaifa_0101
-
 
 GitHub: https://github.com/Huzaifa765
+## 🌐 Connect
+
+- X: https://x.com/Huzaifa_0101
+
+- GitHub: https://github.com/huzaifa765
+- Base: huzaifac1214.base.eth
 
 Base: huzaifa.base.eth
