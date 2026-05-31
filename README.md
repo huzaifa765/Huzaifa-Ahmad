@@ -47,7 +47,7 @@ Building on Base • Smart Contracts • Web3 Products
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa765&layout=compact&theme=tokyonight)
 
 ---
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifa765&theme=tokyonight)
 ## 🌐 Connect
 
 X: https://x.com/Huzaifa_0101
