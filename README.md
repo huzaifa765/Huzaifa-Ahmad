@@ -16,7 +16,24 @@ Building on Base • Smart Contracts • Web3 Products
 - Exploring Onchain Identity Systems
 - Learning Full Stack Web3 Development
 - Focused on shipping real products
+## 🔵 Current Focus
 
+- Building on Base
+- Smart Contract Development
+- DAO Infrastructure
+- Onchain Identity
+- Reputation Systems
+- Full Stack dApps
+## 🏗 Featured Projects
+
+### BasePass
+Onchain Identity Layer built on Base
+
+### BaseCred
+Decentralized Reputation Protocol
+
+### Base DAO
+Community Governance Infrastructure
 ---
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Huzaifa765&label=Profile+Views&color=0052FF&style=for-the-badge" />
