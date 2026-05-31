@@ -48,7 +48,6 @@ Community Governance Infrastructure
 
 ---
 
-## ⚒️ Tech Stack
 
 ## ⚒️ Tech Stack
 
