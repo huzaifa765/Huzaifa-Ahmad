@@ -1,1 +1,53 @@
-# Huzaifa-Ahmad
+# 👋 Hi, I'm Huzaifa
+
+### Base Ecosystem Builder
+
+Building on Base • Smart Contracts • Web3 Products
+
+---
+
+## 🚀 About Me
+
+- Building dApps on Base
+- Solidity Smart Contract Developer
+- Exploring Onchain Identity Systems
+- Learning Full Stack Web3 Development
+- Focused on shipping real products
+
+---
+
+## 🔵 Base Ecosystem
+
+- Smart Contracts
+- DAO Systems
+- Onchain Reputation
+- Governance
+- Identity Protocols
+
+---
+
+## ⚒️ Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa765&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa765&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect
+
+X: https://x.com/Huzaifa_0101
+
+
+GitHub: https://github.com/Huzaifa765
+
+Base: huzaifa.base.eth
