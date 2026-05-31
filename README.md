@@ -38,6 +38,7 @@ Onchain Identity Layer built on Base
 Decentralized Reputation Protocol
 
 ### Base DAO
+
 Community Governance Infrastructure
 ---
 <p align="center">
@@ -50,6 +51,7 @@ Community Governance Infrastructure
 - Onchain Reputation
 - Governance
 - Identity Protocols
+- Useful Tools
 
 ---
 
@@ -84,13 +86,10 @@ Community Governance Infrastructure
 ![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifa765&theme=tokyonight)
 ## 🌐 Connect
 
-
 GitHub: https://github.com/Huzaifa765
-## 🌐 Connect
 
 - X: https://x.com/Huzaifa_0101
 
-- GitHub: https://github.com/huzaifa765
 - Base: huzaifac1214.base.eth
 
 Base: huzaifa.base.eth
