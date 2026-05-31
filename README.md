@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=0052FF&center=true&vCenter=true&width=900&lines=Base+Ecosystem+Builder;Smart+Contract+Developer;Building+Onchain+Products;Learning+By+Building" />
+</p>
 # 👋 Hi, I'm Huzaifa
 
 ### Base Ecosystem Builder
@@ -15,7 +18,9 @@ Building on Base • Smart Contracts • Web3 Products
 - Focused on shipping real products
 
 ---
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Huzaifa765&label=Profile+Views&color=0052FF&style=for-the-badge" />
+</p>
 ## 🔵 Base Ecosystem
 
 - Smart Contracts
